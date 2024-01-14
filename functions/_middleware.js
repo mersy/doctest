@@ -7,7 +7,7 @@
  * first colon in a user-pass string separates user and password.
  */
 const BASIC_USER = 'test'
-const BASIC_PASS = 'testtest∏'
+const BASIC_PASS = 'testtest'
 
 async function errorHandling(context) {
     try {
